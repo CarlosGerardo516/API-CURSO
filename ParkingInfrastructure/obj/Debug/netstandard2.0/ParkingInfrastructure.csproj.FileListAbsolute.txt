@@ -1,0 +1,13 @@
+C:\Users\Ragged516\Desktop\RESTFUL\API_CURSO\ParkingInfrastructure\bin\Debug\netstandard2.0\ParkingInfrastructure.deps.json
+C:\Users\Ragged516\Desktop\RESTFUL\API_CURSO\ParkingInfrastructure\bin\Debug\netstandard2.0\ParkingInfrastructure.dll
+C:\Users\Ragged516\Desktop\RESTFUL\API_CURSO\ParkingInfrastructure\bin\Debug\netstandard2.0\ParkingInfrastructure.pdb
+C:\Users\Ragged516\Desktop\RESTFUL\API_CURSO\ParkingInfrastructure\bin\Debug\netstandard2.0\ParkingCore.dll
+C:\Users\Ragged516\Desktop\RESTFUL\API_CURSO\ParkingInfrastructure\bin\Debug\netstandard2.0\ParkingCore.pdb
+C:\Users\Ragged516\Desktop\RESTFUL\API_CURSO\ParkingInfrastructure\obj\Debug\netstandard2.0\ParkingInfrastructure.csprojAssemblyReference.cache
+C:\Users\Ragged516\Desktop\RESTFUL\API_CURSO\ParkingInfrastructure\obj\Debug\netstandard2.0\ParkingInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ragged516\Desktop\RESTFUL\API_CURSO\ParkingInfrastructure\obj\Debug\netstandard2.0\ParkingInfrastructure.AssemblyInfoInputs.cache
+C:\Users\Ragged516\Desktop\RESTFUL\API_CURSO\ParkingInfrastructure\obj\Debug\netstandard2.0\ParkingInfrastructure.AssemblyInfo.cs
+C:\Users\Ragged516\Desktop\RESTFUL\API_CURSO\ParkingInfrastructure\obj\Debug\netstandard2.0\ParkingInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Ragged516\Desktop\RESTFUL\API_CURSO\ParkingInfrastructure\obj\Debug\netstandard2.0\ParkingInfrastructure.csproj.CopyComplete
+C:\Users\Ragged516\Desktop\RESTFUL\API_CURSO\ParkingInfrastructure\obj\Debug\netstandard2.0\ParkingInfrastructure.dll
+C:\Users\Ragged516\Desktop\RESTFUL\API_CURSO\ParkingInfrastructure\obj\Debug\netstandard2.0\ParkingInfrastructure.pdb

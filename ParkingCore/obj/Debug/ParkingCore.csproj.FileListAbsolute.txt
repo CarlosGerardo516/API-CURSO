@@ -1,0 +1,10 @@
+C:\Users\Ragged516\Desktop\RESTFUL\API_CURSO\ParkingCore\bin\Debug\ParkingCore.dll
+C:\Users\Ragged516\Desktop\RESTFUL\API_CURSO\ParkingCore\bin\Debug\ParkingCore.pdb
+C:\Users\Ragged516\Desktop\RESTFUL\API_CURSO\ParkingCore\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\Ragged516\Desktop\RESTFUL\API_CURSO\ParkingCore\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\Ragged516\Desktop\RESTFUL\API_CURSO\ParkingCore\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\Ragged516\Desktop\RESTFUL\API_CURSO\ParkingCore\obj\Debug\ParkingCore.csprojAssemblyReference.cache
+C:\Users\Ragged516\Desktop\RESTFUL\API_CURSO\ParkingCore\obj\Debug\ParkingCore.csproj.CoreCompileInputs.cache
+C:\Users\Ragged516\Desktop\RESTFUL\API_CURSO\ParkingCore\obj\Debug\ParkingCore.csproj.CopyComplete
+C:\Users\Ragged516\Desktop\RESTFUL\API_CURSO\ParkingCore\obj\Debug\ParkingCore.dll
+C:\Users\Ragged516\Desktop\RESTFUL\API_CURSO\ParkingCore\obj\Debug\ParkingCore.pdb
